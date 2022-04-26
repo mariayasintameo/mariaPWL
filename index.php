@@ -15,7 +15,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-md-8">
-                        <h1>Selamat datang di SMK Sanjaya Bajawa</h1>
+                        <h1>Selamat datang di SMK Sanjaya Bajawa Maria</h1>
                         <p>Bergabunglah bersama kami di SMK Sanjaya Bajawa</p>
                     </div>
                     <div class="col-md-4">
